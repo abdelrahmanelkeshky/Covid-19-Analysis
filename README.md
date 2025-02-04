@@ -128,5 +128,5 @@ Future Improvements
 
   - Integrate Python for deeper statistical analysis and forecasting.
 
-Author: Abdelrahman ElkeshkyProject
+Author: Abdelrahman ElkeshkyProject <br>
 Purpose: Data Analysis & Visualization of COVID-19 Trends
