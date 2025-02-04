@@ -4,7 +4,7 @@
 
 ***This project explores COVID-19 data using SQL to analyze different metrics such as infection rates, death rates, and vaccination progress. It leverages key SQL techniques, including:***
 
-### - 🔗 Joins (to combine data from different tables)
+- ### 🔗 Joins (to combine data from different tables)
 
 📌 Common Table Expressions (CTEs) (for readability and reusability)
 
