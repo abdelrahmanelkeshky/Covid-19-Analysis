@@ -91,6 +91,25 @@ Analyzes how death rates have evolved over time across different regions.
 
 ---
 
+### Results
+
+- Infection and death rates vary widely across countries and continents, reflecting diverse pandemic impacts.  
+- Certain countries exhibit high infection rates relative to population size, indicating significant spread.  
+- Death rates show disparities influenced by healthcare capacity and demographics.  
+- Vaccination progress has steadily increased, with rolling calculations highlighting trends in vaccine uptake by country.  
+- Integration of vaccination data with infection trends provides insights into pandemic control effectiveness.
+
+---
+
+### Recommendations
+
+- Use rolling vaccination metrics to prioritize countries or regions for targeted vaccination campaigns.  
+- Monitor infection and death trends to allocate healthcare resources effectively.  
+- Enhance data automation through stored procedures and triggers for timely updates.  
+- Incorporate advanced analytics with Python to forecast future waves and vaccination needs.
+
+---
+
 ### Technologies Used
 
 - SQL Server Management Studio (SSMS) or any SQL-based RDBMS  
@@ -115,5 +134,4 @@ Analyzes how death rates have evolved over time across different regions.
 ---
 
 **Author:** Abdelrahman Elkeshky  
-**Project Type:** Data Analysis & Visualization of COVID-19 Trends  
 **Inspired by:** Alex The Analyst (COVID Portfolio Project 1 & 2)
